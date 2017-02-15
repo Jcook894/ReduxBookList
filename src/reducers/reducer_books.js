@@ -1,4 +1,4 @@
-function(){
+ export default function(){
   return[
     {title: "A Series of Unfortunate Events"},
     {title: "Harry Potter"},
