@@ -5,5 +5,5 @@
     {title: "The Dark Tower"},
     {title: "Night"},
     {title: "The Phantom TollBooth"},
-  ]
+  ];
 }
